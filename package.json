@@ -1,7 +1,7 @@
 {
   "name": "todo-tasks",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "Server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
   "description": "A simple todo tasks app",
   "dependencies": {
     "express": "^4.19.2",
-    "mongoose": "^6.10.0",
+    "mongoose": "^6.13.0",
     "node-env-file": "^0.1.8"
   }
 }
